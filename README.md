@@ -1,6 +1,11 @@
 # teams-maker
 
+[![npm](https://img.shields.io/npm/v/teams-maker)](https://www.npmjs.com/package/teams-maker)
+[![GitHub stars](https://img.shields.io/github/stars/Yoyokesbeh/useful-skills?style=social)](https://github.com/Yoyokesbeh/useful-skills/stargazers)
+
 **Inspired by Hermes.** Structured AI agent teams through a guided interview — generates all agent files, runbooks, heartbeat/audit scripts, and shared memory.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yoyokesbeh/useful-skills&type=Date)](https://star-history.com/#Yoyokesbeh/useful-skills&Date)
 
 Install into any AI tool:
 
