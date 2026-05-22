@@ -1,10 +1,10 @@
 {
-  "name": "useful-skills",
+  "name": "teams-maker",
   "version": "0.1.0",
-  "description": "Install Agent Skills (teams-maker) into your AI tools — Claude Code, OpenCode, Cursor, Windsurf, Continue.dev, Goose, Amp",
+  "description": "Install the teams-maker Agent Skill into your AI tools — Claude Code, OpenCode, Cursor, Windsurf, Continue.dev, Goose, Amp",
   "license": "MIT",
   "bin": {
-    "useful-skills": "./bin/install.js"
+    "teams-maker": "./bin/install.js"
   },
   "files": [
     "bin/",
