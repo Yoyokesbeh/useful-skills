@@ -1,0 +1,22 @@
+{
+  "name": "useful-skills",
+  "version": "0.1.0",
+  "description": "Install Agent Skills (teams-maker) into your AI tools — Claude Code, OpenCode, Cursor, Windsurf, Continue.dev, Goose, Amp",
+  "license": "MIT",
+  "bin": {
+    "useful-skills": "./bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "skill.md",
+    "scripts/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoyokesbeh/useful-skills.git"
+  },
+  "homepage": "https://github.com/Yoyokesbeh/useful-skills#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
