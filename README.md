@@ -13,7 +13,7 @@ Install into any AI tool:
 npx teams-maker
 ```
 
-Detects Claude Code, OpenCode, Cursor, Windsurf, Continue.dev, Goose, and Amp — places the skill in the right format for each.
+Detects Claude Code, OpenCode, Cursor, Windsurf, Continue.dev, Goose, and Amp — places the skill in the right format for each. You can also move the installed skill file into your preferred `.agents/skills/` directory if you want a different setup.
 
 ## What it does
 
@@ -42,6 +42,10 @@ Still sloppy. Works well enough for real use — but expect rough edges. Improve
 ## Usage
 
 After `npx teams-maker`, the skill is available in your AI tool's agent skill directory. Trigger it by asking your agent to "create a team" or "build an agent team".
+
+## Future
+
+Build a local MCP server to cache team configs and speed up repeated invocations — no more re-interviewing for existing teams.
 
 ## License
 
