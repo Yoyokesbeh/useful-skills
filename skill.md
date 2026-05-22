@@ -25,7 +25,7 @@ Build structured agent teams through step-by-step interview → auto-generation 
     heartbeat.py          — Agent runs this: prints memory/skills status, revaluate triggers
     audit-team.py         — System runs this pre-invocation: checks memory bloat, skills health, stale ratio
 
-And a discoverable entry at `.agents/skills/team-name/SKILL.md` so the system can find and invoke this team by name.
+And a discoverable entry at `.skills/team-name/SKILL.md` so the system can find and invoke this team by name.
 ```
 
 ## Interview Protocol
@@ -96,7 +96,7 @@ Start with:
 ```
 Agent updates this after heartbeat output.
 
-### Team SKILL.md (in `.agents/skills/team-name/SKILL.md`)
+### Team SKILL.md (in `.skills/team-name/SKILL.md`)
 Discoverable entry point so the system finds the team. Include:
 - Frontmatter: `name`, `description` with trigger keywords
 - Team purpose summary

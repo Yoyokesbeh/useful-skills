@@ -1,2 +1,9 @@
 node_modules/
 npm-debug.log*
+.skills/
+.teams/
+.agents/
+docs/
+package.json
+bin/
+.gitignore

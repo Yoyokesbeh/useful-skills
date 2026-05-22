@@ -5,7 +5,13 @@
 
 **Inspired by Hermes.** Structured AI agent teams through a guided interview — generates all agent files, runbooks, heartbeat/audit scripts, and shared memory.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Yoyokesbeh/useful-skills&type=Date)](https://www.star-history.com/?type=date&repos=Yoyokesbeh%2Fuseful-skills)
+<a href="https://www.star-history.com/?repos=Yoyokesbeh%2Fuseful-skills&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Yoyokesbeh/useful-skills&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Yoyokesbeh/useful-skills&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Yoyokesbeh/useful-skills&type=date&legend=top-left" />
+ </picture>
+</a>
 
 Install into any AI tool:
 
@@ -13,7 +19,7 @@ Install into any AI tool:
 npx teams-maker
 ```
 
-Detects Claude Code, OpenCode, Cursor, Windsurf, Continue.dev, Goose, and Amp — places the skill in the right format for each. You can also move the installed skill file into your preferred `.agents/skills/` directory if you want a different setup.
+Detects Claude Code, OpenCode, Cursor, Windsurf, Continue.dev, Goose, and Amp — places the skill in the right format for each. You can also move the installed skill file into your preferred `.skills/` directory if you want a different setup.
 
 ## What it does
 
