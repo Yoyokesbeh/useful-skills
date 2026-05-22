@@ -5,7 +5,7 @@
 
 **Inspired by Hermes.** Structured AI agent teams through a guided interview — generates all agent files, runbooks, heartbeat/audit scripts, and shared memory.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Yoyokesbeh/useful-skills&type=Date)](https://star-history.com/#Yoyokesbeh/useful-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Yoyokesbeh/useful-skills&type=Date)](https://www.star-history.com/?type=date&repos=Yoyokesbeh%2Fuseful-skills)
 
 Install into any AI tool:
 
